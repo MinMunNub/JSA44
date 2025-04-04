@@ -1,0 +1,25 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: Arial, Helvetica, sans-serif;
+}
+.box {
+    display: flex;
+    margin-top: 90px;
+}
+.graybox {
+    display: block;
+    height: 80px;
+    width: 100px;
+    background-color: gray;
+    margin-left:250px ;
+}
+.graycircle {
+    display: block;
+    height: 80px;
+    width: 80px;
+    background-color: gray;
+    margin-left:250px ;
+    border-radius: 50px;
+}
