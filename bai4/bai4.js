@@ -171,6 +171,31 @@
 //   alert("so ko nam trong khoang 10 den 100");
 // }
 
+// bai10
+// let a = Number(prompt("nhap so a"));
+// let dau = prompt("nhap dau");
+// let b = Number(prompt("nhap so b"));
+// let kq;
+
+// switch (dau) {
+//   case "+":
+//     kq = a + b;
+//     break;
+//   case "-":
+//     kq = a - b;
+//     break;
+//   case "*":
+//     kq = a * b;
+//     break;
+//   case "/":
+//     kq = b !== 0 ? a / b : "0";
+//     break;
+//   default:
+//     kq = "phep tinh ko hop le";
+// }
+
+// alert("ket qua la: " + kq);
+
 
 
 
