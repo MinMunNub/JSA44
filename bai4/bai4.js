@@ -124,7 +124,7 @@
 // bai5
 // let a = Number(prompt("nhap nam"));
 
-// if ((a % 4 === 0 && a % 100 !== 0) || a % 400 === 0) {
+// if ((a % 4 === 0 && a % 100 === 0) || a % 400 === 0) {
 //   alert("la nam nhuan");
 // } else {
 //   alert("ko phai nam nhuan");
