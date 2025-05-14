@@ -31,7 +31,7 @@
 // for (let i = 1; i <= 10; i++) {
 //     kq += i + " ";
 // }
-// console.log("in ra 1 den 10 tren mot hang = " + kq.trim());
+// console.log("in ra 1 den 10 tren mot hang =" + kq);
 
 // let a = 1;
 // let b = 5;
