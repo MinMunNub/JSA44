@@ -1,0 +1,24 @@
+.modal {
+  width: 300px;
+  margin: 30px auto;
+  padding: 20px;
+  border: 2px solid black;
+  border-radius: 10px;
+  text-align: center;
+}
+
+
+.hidden {
+  display: none;
+}
+
+
+.bgred {
+  background-color: red;
+  color: white;
+}
+
+.bggreen {
+  background-color: green;
+  color: white;
+}
